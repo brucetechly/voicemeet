@@ -1,7 +1,0 @@
-{
-  "name": "VocaLendar",
-  "description": "A voice-first AI scheduling assistant that manages your life through natural conversation and intelligent reasoning.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
